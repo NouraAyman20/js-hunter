@@ -21,9 +21,8 @@ cd js-hunter
 pip install -r requirements.txt
 
 
-
-
-## 🛠 How to Use
+---
+##** 🛠 How to Use**
 1. Prepare your subdomains list in a file named `subdomains.txt`.
 2. Run the following command to extract all valid JavaScript URLs (with HTTP 200 OK):
 
